@@ -1,0 +1,20 @@
+{
+    "name": "Meu Widget",
+    "short_name": "Widget",
+    "description": "Meu widget personalizado para abrir sites.",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#111827",
+    "theme_color": "#2563eb",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "/static/icons/icon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ]
+}
+
